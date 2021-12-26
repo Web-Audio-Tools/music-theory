@@ -1,6 +1,5 @@
 # Guitar Dashboard
-An interactive music theory dashboard for guitarists. http://guitardashboard.com/
-
+An interactive music theory dashboard for guitarists. 
 The aim is to provide a graphical representation of music theory elements (scales, modes, chords etc) mapped to a guitar fretboard.
 
 ## Developing with VS Code
