@@ -10,7 +10,7 @@
   "author": "Bryan Guner",
   "license": "MIT",
   "devDependencies": {
-    "@types/d3": "^3.0.0",
+    "@types/d3": "3.5.46",
     "@types/webmidi": "^2.0.2",
     "concurrently": "4.0.1",
     "d3": "^3.0.0",
